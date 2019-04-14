@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fun Retrofit</string>
+    <string name="btFan">show FAN</string>
+    <string name="btRetrofit">Show Retrofit</string>
+    <string name="btVolley">SHow Volley</string>
+    <string name="btASyntask">SHow Asyntask</string>
+    <string name="countDown">00:00:00</string>
+</resources>
